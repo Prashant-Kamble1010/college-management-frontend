@@ -114,7 +114,7 @@ function Login() {
                     <div className="flex-1 border-t"></div>
 
                     <span className="px-3 text-gray-400 text-sm">
-                        OR
+                        Or
                     </span>
 
                     <div className="flex-1 border-t"></div>
