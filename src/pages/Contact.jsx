@@ -54,7 +54,7 @@ function Contact() {
                                 <h3 className="font-bold text-lg">Address</h3>
                                 <p className="text-gray-600">
                                     College Management System<br />
-                                    Pune, Maharashtra 411001
+                                    Pune, Maharashtra 412105
                                 </p>
                             </div>
 
