@@ -84,7 +84,7 @@ function Contact() {
                             <div>
                                 <h3 className="font-bold text-lg">Email</h3>
                                 <p className="text-gray-600">
-                                    prashantkamble4208@gmail.com
+                                    college@gmail.com
                                 </p>
                             </div>
 
