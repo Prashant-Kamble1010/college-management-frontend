@@ -160,7 +160,7 @@ function Contact() {
 
                         <input
                             type="text"
-                            placeholder="Full Name"
+                            placeholder="Enter Full Name"
                             className="w-full border border-gray-300 rounded-xl p-4 focus:outline-none focus:ring-2 focus:ring-blue-700"
                         />
 
